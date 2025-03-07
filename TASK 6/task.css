@@ -1,0 +1,32 @@
+
+.box{
+	width: 70px;
+	height: 370px;
+	background-color: blue;
+	border-radius: 10px 0px 0px 10px ;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	position: absolute;
+	top: 100px;
+	right: 0;
+	position: fixed ;
+}
+.one i{
+	font-size: 25px;
+	padding-top: 10px;
+	color: white;
+
+}
+.two i{
+	font-size: 25px;
+	color: white;
+}
+.three i{
+	font-size: 25px;
+	color: white;
+}
+.four i{
+	font-size: 25px;
+	color: white;
+}

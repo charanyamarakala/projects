@@ -1,0 +1,28 @@
+.bg{
+	background-image: url("webimg.jpg");
+	background-position: center;
+	background-size:cover ;
+	padding: 200px 0px;
+
+}
+.chitti{
+	height: 75px;
+	width: 100%;
+	position: fixed;
+}
+.bgimg{
+	background-image: url("immg.jpg");
+	background-position: center;
+	background-size:cover ;
+	padding: 200px 0px;
+	
+}
+.c{
+	margin-left: 120px;
+}
+.raji{
+	margin-left: 100px;
+}
+.yash{
+ padding-left: 100px;
+}
